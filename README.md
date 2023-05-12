@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React hooks demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project aims to show an example of how react-hooks could be used to remove dependency injection in logical components and remove complexity and boilerplace compared to standard, object-oriented paradigm. We can see how well separated visual components are from the app logic (components and hooks directories)
 
 ## Available Scripts
 
